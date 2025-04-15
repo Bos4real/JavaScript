@@ -1,1 +1,1 @@
-document.getElementById("myHeading")
+console.log("Learning JavaScript Basic");
