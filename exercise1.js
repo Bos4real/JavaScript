@@ -1,1 +1,1 @@
-console.log("Learning JavaScript Basic"); hj
+console.log("Learning JavaScript Basic");
