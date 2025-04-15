@@ -1,1 +1,2 @@
-console.log("Learning JavaScript Basic");
+const h1 = "Learning JavaScript Basic";
+console.log("h1");
