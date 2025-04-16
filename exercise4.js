@@ -1,2 +1,5 @@
-const h4 = "Learning JavaScript Basic";
-console.log("h4");
+let x = 1;
+alert("1")
+for (let i=1; i<=10; i++) {
+    console.log("x*i");
+}
