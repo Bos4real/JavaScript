@@ -1,2 +1,3 @@
-const h1 = "Learning JavaScript Basic";
-console.log("h1");
+let name = prompt("Mudashiru");
+alert("Hello, " + Mudashiru + "! Welcome to JavaScript.");
+console.log("name");
